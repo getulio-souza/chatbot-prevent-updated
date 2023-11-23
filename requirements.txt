@@ -28,7 +28,7 @@ regex==2023.10.3
 requests==2.31.0
 sqlparse==0.4.4
 sympy==1.12
-torch==1.10.0
+torch==1.13.1
 torchvision==0.16.0
 tqdm==4.66.1
 typing_extensions==4.8.0
