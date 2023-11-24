@@ -2,7 +2,7 @@
 
 O chatbot foi desenvolvido com HTML, CSS e Javascript no Front-End e Python com Flask no Back-End. 
 
-Na seção de cursos, foi simulado um fluxo de diálogo entre alguém que está com suspeita de depressão e encontra no chatbot uma forma de se prevenir e até tratar os primeiros sintomas dessa doença.
+Fpi simulado um fluxo de diálogo entre alguém que está com suspeita de depressão e encontra no chatbot uma forma de se prevenir e até tratar os primeiros sintomas dessa doença.
 
 ## Primeiros passos para executar o chatbot (no terminal da sua preferência):
 
