@@ -6,8 +6,8 @@ Na seção de cursos, foi simulado um fluxo de diálogo entre alguém que está 
 
 ## Primeiros passos para executar o chatbot (no terminal da sua preferência):
 
-$ git clone https://github.com/getulio-souza/chatbot-beDev.git <br>  
-$ cd chatbot-bedev <br>  
+$ git clone https://github.com/getulio-souza/chatbot-prevent-updated/ <br>  
+$ cd chatbot-prevent-updated/ <br>  
 $ python app.py  
 
 Agora é só acessar a URL que foi disponibilizada para rodá-lo localmente.
